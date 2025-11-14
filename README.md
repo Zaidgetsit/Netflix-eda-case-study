@@ -104,4 +104,4 @@ It includes information about each title’s **cast, director, country, release 
 ## 🧠 Author
 **Mohammed Zaid**  
 Aspiring Data Scientist | Python | SQL | Machine Learning | Data Visualization  
-📫 *Connect with me on [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/mohammed-zaid-332871288/))*  
+📫 *Connect with me on [LinkedIn]([https://www.linkedin.com/in/mohammed-zaid-332871288/](https://www.linkedin.com/in/mohammed-zaid-332871288/))*  
